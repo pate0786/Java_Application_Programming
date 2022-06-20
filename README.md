@@ -1,1 +1,1 @@
-# Java_Application_Programming
+In Java Application Programming CST8221 at Algonquin College in Level 4 term I have learned and applied advanced Java technology by developing multi-tiered applications featuring a rich graphical user interface (GUI) also learnt how to build a GUI, object-oriented design patterns, networking, multi-threading and database connectivity and deployment.
